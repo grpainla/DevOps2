@@ -8,4 +8,8 @@ thu kya re hawle
 
 adding stash2
 
+Updated upstream
 this is good
+
+Checking stash conflict Auto COnflict
+Stashed changes
